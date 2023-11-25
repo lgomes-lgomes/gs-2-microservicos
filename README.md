@@ -3,7 +3,7 @@ Integrantes do Grupo
 
 Leonardo Gomes - RM 86869
 Felipe Tardelli - RM 87783
-Gabriel Matos - 
+Gabriel Matos - RM 87489
 
 Modelo lógico do banco de dados
 ![Alt text](image-1.png)
