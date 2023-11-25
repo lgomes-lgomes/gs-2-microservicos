@@ -6,6 +6,7 @@ Felipe Tardelli - RM 87783
 Gabriel Matos - RM 87489
 
 Modelo lógico do banco de dados
+
 ![Alt text](image-1.png)
 
 Resultados dos testes de carga do k6
